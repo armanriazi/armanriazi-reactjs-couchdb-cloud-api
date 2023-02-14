@@ -1,0 +1,9 @@
+[submodule "armanriazi-vidly-api"]
+	path = armanriazi-vidly-api
+	url = https://github.com/armanriazi/armanriazi-vidly-api
+[submodule "armanriazi-movies-reactjs"]
+	path = armanriazi-movies-reactjs
+	url = https://github.com/armanriazi/armanriazi-movies-reactjs
+
+
+	

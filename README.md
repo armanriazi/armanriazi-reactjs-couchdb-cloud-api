@@ -3,10 +3,34 @@
 
 > Currenttly, Online published projects does not work because from 2022 many of cloud providers canceled or changed free services and instances especially IBM and Herokou.
 
-# Vidly Sample Project
+# Included Repositories
+
+[armanriazi-vidly-api](https://github.com/armanriazi/armanriazi-vidly-api)
+
+[armanriazi-movies-reactjs](https://github.com/armanriazi/armanriazi-movies-reactjs)
 
 
-[online: armanriazi-vidly-api.herokuapp](https://armanriazi-vidly-api.herokuapp.com/)
+# Online Sample Projects
+
+[Online: armanriazi-vidly-api.herokuapp](https://armanriazi-vidly-api.herokuapp.com)
+
+[Online: armanriazi-movies-reactjs.herokuapp](https://armanriazi-movies-reactjs.herokuapp.com)
+
+# Run Projects
+- [Advanced Configuration](#advanced-configuration)
+- [Troubleshooting](#troubleshooting)
+  - [`npm start` doesn’t detect changes](#npm-start-doesnt-detect-changes)
+  - [`npm test` hangs on macOS Sierra](#npm-test-hangs-on-macos-sierra)
+  - [`npm run build` exits too early](#npm-run-build-exits-too-early)
+  - [`npm run build` fails on Heroku](#npm-run-build-fails-on-heroku)
+  - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
+  - [Moment.js locales are missing](#momentjs-locales-are-missing)
+- [Alternatives to Ejecting](#alternatives-to-ejecting)
+- [Something Missing?](#something-missing)
+
+
+## Vidly
+
 
 > Improved speed and performance.
 
@@ -28,9 +52,7 @@ Query Genre: https://armanriazi-vidly-api.herokuapp.com/api/genres/name/comedy
 
 Token Generate: https://armanriazi-vidly-api.herokuapp.com/api/auth/yourRefToken
 
-# Movies Sample Project
-
-[online: armanriazi-movies-reactjs.herokuapp](https://armanriazi-movies-reactjs.herokuapp.com/)
+# Movies
 
 > Improved speed and performance.
 
@@ -40,25 +62,18 @@ Token Generate: https://armanriazi-vidly-api.herokuapp.com/api/auth/yourRefToken
 
 > I have got satisfied with mix of couchdb and reactjs! Why not! both of them are good choice for frontend and database with o/i json.
 
-[Github Repository](https://github.com/armanriazi/armanriazi-movies-reactjs)
+---
 
 [Build Status](https://drive.google.com/file/d/1W5nSlFYGxQoyDmaiZDTkD9Cccxs5TiG-/view?usp=sharing")
-
-- [Advanced Configuration](#advanced-configuration)
-- [Troubleshooting](#troubleshooting)
-  - [`npm start` doesn’t detect changes](#npm-start-doesnt-detect-changes)
-  - [`npm test` hangs on macOS Sierra](#npm-test-hangs-on-macos-sierra)
-  - [`npm run build` exits too early](#npm-run-build-exits-too-early)
-  - [`npm run build` fails on Heroku](#npm-run-build-fails-on-heroku)
-  - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
-  - [Moment.js locales are missing](#momentjs-locales-are-missing)
-- [Alternatives to Ejecting](#alternatives-to-ejecting)
-- [Something Missing?](#something-missing)
-
 
 ---
 
 
-#### Author of armanriazi-vidly-api: arman2develop@gmail.com
+## References 
+
+[Archived-2019-2020](https://armanriazi.github.io/site/public/archive/archive-2019-2020)
+
+
+#### Author: armanriyazi.github.io@gmail.com
 
 #### I Made it with ❤️ for you

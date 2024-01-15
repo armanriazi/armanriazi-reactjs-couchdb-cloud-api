@@ -1,3 +1,4 @@
+Developed: All of the things that you need to work with CouchDB and ExpressJS.
 
 # Development
 

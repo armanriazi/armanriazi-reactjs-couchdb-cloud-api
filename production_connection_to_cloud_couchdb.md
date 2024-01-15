@@ -131,6 +131,7 @@ info: 192.168.1.11
 info: dbarmanriazi
 info: Listening on port 3050…
 warn: Database is exist
+```
 ---
 
 ## Resolved issues

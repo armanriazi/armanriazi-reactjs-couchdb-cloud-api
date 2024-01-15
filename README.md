@@ -1,11 +1,11 @@
 
-> `Tips`
-
-> Currenttly, Online published projects does not work because from 2022 many of cloud providers canceled or changed free services and instances especially IBM and Herokou.
+`> Tips:` Currently, Online published projects(Nodejs, Express, CouchDB, Reactjs) do not work due to 2022 many cloud providers canceling/changing free-tire services and instances, especially IBM and Herokou.
 
 # Included Repositories
 
 [armanriazi-vidly-api](https://github.com/armanriazi/armanriazi-vidly-api)
+
+[production_connection_to_cloud couchdb](production_connection_to_cloud_couchdb.md)
 
 [armanriazi-movies-reactjs](https://github.com/armanriazi/armanriazi-movies-reactjs)
 
@@ -28,17 +28,15 @@
 - [Alternatives to Ejecting](#alternatives-to-ejecting)
 - [Something Missing?](#something-missing)
 
-
 ## Vidly
-
 
 > Improved speed and performance.
 
 > I developed a sample-project base on #expressjs, #restapi, #api, #nodejs, #couchdb, #ibm ,and [[cloud]], on #heroku #pipline.
 
-> I wanted to start work on reactjs that I think it has a main components include grid, list, search, connected to db. 
+> I wanted to start work on reactjs I think it has main components including grid, list, search, and connected to db. 
 
-> I have got satisfied with mix of couchdb and reactjs! Why not! both of them are good choice for frontend and database with o/i json.
+> I have been satisfied with a mix of CouchDB and Reactjs! Why not! both of them are good choices for frontend and database with o/i JSON.
 
 [Build Status](https://drive.google.com/file/d/1ziS-besHSobHOmJ1v5SzMvVkqZrmbd8R/view?usp=sharing)
 
@@ -56,11 +54,11 @@ Token Generate: https://armanriazi-vidly-api.herokuapp.com/api/auth/yourRefToken
 
 > Improved speed and performance.
 
-> I developed a sample-project base on reactjs, couchdb,ibm, cloud, on heroku pipline.
+> I developed a sample project based on reactjs, couchdb,ibm, and cloud, on the Heroku pipeline.
 
-> I wanted to start work on reactjs that I think it has a main components include grid, list, search, connected to db. 
+> I wanted to start work on reactjs I think it has main components including grid, list, search, and connected to db. 
 
-> I have got satisfied with mix of couchdb and reactjs! Why not! both of them are good choice for frontend and database with o/i json.
+> I have been satisfied with the mix of couchdb and reactjs! Why not! both of them are good choices for frontend and database with o/i json.
 
 ---
 

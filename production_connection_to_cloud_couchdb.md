@@ -73,7 +73,7 @@ break;
 exports.selectEnvironmet = selectEnvironmet;
 ```
 
-## Step 3: Add this contents to db.js:
+## Step 3: LOCs of db.js:
 
 ```js
 const agentkeepalive = require("agentkeepalive");

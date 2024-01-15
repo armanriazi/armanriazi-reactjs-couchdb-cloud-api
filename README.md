@@ -41,7 +41,7 @@
 [Build Status](https://drive.google.com/file/d/1ziS-besHSobHOmJ1v5SzMvVkqZrmbd8R/view?usp=sharing)
 
 
-> Help: https://armanriazi.github.io/site/public/devops/Cloud/?h=couchdb
+> Help: https://armanriazi.github.io/public/devops/Cloud/?h=couchdb
 
 > Online: https://armanriazi-vidly-api.herokuapp.com/cool
 
@@ -58,7 +58,7 @@ Token Generate: https://armanriazi-vidly-api.herokuapp.com/api/auth/yourRefToken
 
 > I wanted to start work on reactjs I think it has main components including grid, list, search, and connected to db. 
 
-> I have been satisfied with the mix of couchdb and reactjs! Why not! both of them are good choices for frontend and database with o/i json.
+> I have been satisfied with the mix of couchdb and reactjs! Why not! both of them are good choices for frontend and database with o/i JSON.
 
 ---
 
@@ -69,7 +69,7 @@ Token Generate: https://armanriazi-vidly-api.herokuapp.com/api/auth/yourRefToken
 
 ## References 
 
-[Archived-2019-2020](https://armanriazi.github.io/site/public/archive/archive-2019-2020)
+[Archived-2019-2020](https://armanriazi.github.io/public/archive/archive-2019-2020)
 
 
 #### Author: armanriyazi.github.io@gmail.com
